@@ -15,5 +15,5 @@ python trainner.py
 ```
 which creates a file in the trainner folder which contains all the characteristics that can be used to characterize an image.
 
-- Then you can finally run ``` bash python detector.py```
+- Then you can finally run ```python detector.py```
 which detects the faces of the people he has learned when it starts the webcam.
