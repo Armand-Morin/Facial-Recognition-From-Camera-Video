@@ -17,3 +17,7 @@ which creates a file in the trainner folder which contains all the characteristi
 
 - Then you can finally run ```python detector.py```
 which detects the faces of the people he has learned when it starts the webcam.
+
+## Result 
+
+https://gifs.com/gif/git-k8EyWN
