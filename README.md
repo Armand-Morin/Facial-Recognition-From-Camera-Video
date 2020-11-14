@@ -20,4 +20,6 @@ which detects the faces of the people he has learned when it starts the webcam.
 
 ## Result 
 
-![Uploading gif (1).gif…]()
+
+![gif (1)](https://user-images.githubusercontent.com/72650161/99147974-4e3c1b80-2685-11eb-97a1-b2a8ad0c6cad.gif)
+
